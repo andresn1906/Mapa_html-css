@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
+body{
+    font-family: "Noto Serif", serif;
+}
+h1{
+    font-size: 3em;
+    margin-bottom: -5px;
+}
+h2{
+    font-size: 1.3em;
+    text-align: left;
+}
+h3{
+    font-size: 1.25em;
+}
+.textant{
+    color: #a79de4;
+}
+#ant{
+    width: 230px;
+    height: 230px;
+    border: 1.5px solid #BFBBD8;
+    outline: 3.5px outset #BFBBD8;
+    box-shadow: 10px 10px 15px #BFBBD8;
+    margin: 20px;
+}
+.dep_ant{
+    margin-left: 10px;
+}
+.dep_ant a{
+    text-decoration: none;
+    color: #574aac;
+}
+.enlaces a{
+    text-decoration:underline;
+    color: #0000EE;
+}
+
+/* Antioquia */
+.infoant img{
+    width: auto;
+    height: 270px;
+    box-shadow: 5px 5px 10px #7f2ecb8d;
+    margin: 10px;
+    margin-top: 15px;
+    display: inline-block;
+    outline: 3.5px outset #7f2ecb18;
+}
+#medallo{
+    width: 840px;
+    height: 252px;
+}
+#ban{
+    width: auto;
+}
+#mon{
+    width: auto;
+}
+#sanc{
+    width: auto;
+}
+ol li{
+    margin-left: 20px;
+}
+
+/* Arauca */
+.infoara img{
+    width: auto;
+    height: 270px;
+    box-shadow: 5px 5px 10px #5cf65771;
+    margin: 10px;
+    margin-top: 15px;
+    display: inline-block;
+    outline: 3.5px outset #3df93720;
+}
+#fincasganaderas{
+    width: 540px;
+    height: 302px;
+}
+#comara{
+    width: auto;
+    height: 215px;
+}
+.textara{
+    color: #B5F2B3;
+}
+#ara{
+    width: 230px;
+    height: 230px;
+    border: 1.5px solid #B5F2B3;
+    outline: 3.5px outset #B5F2B3;
+    box-shadow: 10px 10px 15px #B5F2B3;
+    margin: 20px;
+}
+.dep_ara{
+    margin-left: 10px;
+}
+.dep_ara a{
+    text-decoration: none;
+    color: #5cf657;
+}
+
+/* Nariño */
+.infonar img{
+    width: 400px;
+    height: auto;
+    box-shadow: 5px 5px 10px #5cf65774;
+    margin: 10px;
+    margin-top: 15px;
+    display: inline-block;
+    outline: 3.5px outset #3df93720;
+}
+#pasto{
+    width: auto;
+    height: 300px;
+}
+#comnar{
+    height: 225px;
+}
+.textnar{
+    color: #B5F2B3;
+}
+#nar{
+    width: 230px;
+    height: 230px;
+    border: 1.5px solid #B5F2B3;
+    outline: 3.5px outset #B5F2B3;
+    box-shadow: 10px 10px 15px #B5F2B3;
+    margin: 20px;
+}
+.dep_nar{
+    margin-left: 10px;
+}
+.dep_nar a{
+    text-decoration: none;
+    color: #5cf657;
+}
+
+/* San Andrés y Providencia */
+.infosan img{
+    width: 350px;
+    height: auto;
+    box-shadow: 5px 5px 10px #8580bd;
+    margin: 10px;
+    margin-top: 15px;
+    display: inline-block;
+    outline: 3.5px outset #564da335;
+}
+#sanan{
+    height: 215px;
+}
+#comsan{
+    height: 225px;
+}
+.textsan{
+    color: #BEBBD9;
+}
+#san{
+    width: 230px;
+    height: 230px;
+    border: 1.5px solid #BEBBD9;
+    outline: 3.5px outset #BEBBD9;
+    box-shadow: 10px 10px 15px #BEBBD9;
+    margin: 20px;
+}
+.dep_san{
+    margin-left: 10px;
+}
+.dep_san a{
+    text-decoration: none;
+    color: #8b82d8;
+}
+
+/* Vichada */
+.infovic img{
+    width: auto;
+    height: 200px;
+    box-shadow: 5px 5px 10px #8580bd;
+    margin: 10px;
+    margin-top: 15px;
+    display: inline-block;
+    outline: 3.5px outset #564da335;
+}
+#puerto{
+    height: 250px;
+}
+#cumaribo{
+    width: 600px;
+    height: auto;
+}
+#parquenal2{
+    width: 350px;
+}
+.textvic{
+    color: #de48e3;
+}
+#vic{
+    width: 230px;
+    height: 230px;
+    border: 1.5px solid #de48e3;
+    outline: 3.5px outset #de48e3;
+    box-shadow: 10px 10px 15px #de48e3;
+    margin: 20px;
+}
+.dep_vic{
+    margin-left: 10px;
+}
+.dep_vic a{
+    text-decoration: none;
+    color: #943698;
+}
