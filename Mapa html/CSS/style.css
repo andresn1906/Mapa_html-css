@@ -1,27 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
 body{
     font-family: "Noto Serif", serif;
-}
+} /* Edición de la fuente para toda la página */
 h1{
     font-size: 4em;
-}
+} /* Tamaño del título principal */
 h2{
     font-size: 2em;
-}
+} /* Tamaño del primer subtítulo */
 h3{
     font-size: 1.3em;
     margin-top: 10px;
-}
+} /* Tamaño del subtítulo informativo */
 hr{
     margin-top: -20px;
-}
-.descripciónmap{
+} /* Modificación de la distancia entre la lína divisora hr y el título */
+/* .descripciónmap{
     font-size: 1.0em;
     margin-top: -15px;
-}
+} No utilizado */
 #map{
     border: 5px solid black;
     outline: 10px outset rgb(226, 226, 226);
     box-shadow: 20px 20px 30px black;
     margin-bottom: 50px;
-}
+} /* Edición de la foto del mapa colombiano */

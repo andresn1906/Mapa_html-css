@@ -1,28 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
 body{
     font-family: "Noto Serif", serif;
-}
+} /* Edición de la fuente para toda la página */
 h1{
     font-size: 3em;
     margin-bottom: -5px;
     margin-top: -3px;
-}
+} /* Tamaño de los títulos principales */
 h2{
     font-size: 1.3em;
     text-align: left;
-}
+} /* Tamaño de los primeros subtítulos */
 h3{
     font-size: 1.25em;
-}
+} /* Tamaño de los segundos subtítulos */
+ol li{
+    margin-left: 20px;
+} /* Margen izquierdo para las listas creadas en todas las páginas .html */
+
+/* Antioquia */
 .hant{
     background-color: #5f4bdf4d;
-}
+} /* Se repite para los demás .html de Departamentos/ ---> Color del fondo del header */
 .contant{
     background-color: #5f4bdf21;
-}
+} /* Se repite para los demás .html de Departamentos/ ---> Color del fondo de todo el contenido de */
 .textant{
     color: #5f4bdf;
-}
+} /* Se repite para los demás .html de Departamentos/ ---> Color del título de la página */
 #ant{
     width: 230px;
     height: 230px;
@@ -30,20 +35,18 @@ h3{
     outline: 3.5px outset #BFBBD8;
     box-shadow: 10px 10px 15px #BFBBD8;
     margin: 20px;
-}
+} /* Se repite para los demás .html de Departamentos/ ---> edición de la imagen del departamento */
 .dep_ant{
     margin-left: 10px;
-}
+} /* Se repite para los demás .html de Departamentos/ ---> Margen para los textos en general */
 .dep_ant a{
     text-decoration: none;
     color: #574aac;
-}
+} /* Se repite para los demás .html de Departamentos/ ---> Edición para los enlaces sobrepuestos en los textos en cada párrafo */
 .enlaces a{
     text-decoration:underline;
     color: #0000EE;
-}
-
-/* Antioquia */
+} /* Se repite para los demás .html de Departamentos/ ---> Decoración de los enlaces al final de cada página */
 .infoant img{
     width: auto;
     height: 270px;
@@ -52,11 +55,11 @@ h3{
     margin-top: 15px;
     display: inline-block;
     outline: 3.5px outset #7f2ecb18;
-}
+} /* Se repite para los demás .html de Departamentos/ ---> Decoración de las imagenes puestas dentro del contenedor */
 #medallo{
     width: 840px;
     height: 252px;
-}
+} 
 #ban{
     width: auto;
 }
@@ -65,9 +68,6 @@ h3{
 }
 #sanc{
     width: auto;
-}
-ol li{
-    margin-left: 20px;
 }
 
 /* Arauca */
