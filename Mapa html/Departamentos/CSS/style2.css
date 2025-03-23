@@ -5,6 +5,7 @@ body{
 h1{
     font-size: 3em;
     margin-bottom: -5px;
+    margin-top: -3px;
 }
 h2{
     font-size: 1.3em;
@@ -13,8 +14,14 @@ h2{
 h3{
     font-size: 1.25em;
 }
+.hant{
+    background-color: #5f4bdf4d;
+}
+.contant{
+    background-color: #5f4bdf21;
+}
 .textant{
-    color: #a79de4;
+    color: #5f4bdf;
 }
 #ant{
     width: 230px;
@@ -64,6 +71,12 @@ ol li{
 }
 
 /* Arauca */
+.hara{
+    background-color: #5cf6573e;
+}
+.contara{
+    background-color: #b5f2b348;
+}
 .infoara img{
     width: auto;
     height: 270px;
@@ -82,7 +95,7 @@ ol li{
     height: 215px;
 }
 .textara{
-    color: #B5F2B3;
+    color: #70ef6b;
 }
 #ara{
     width: 230px;
@@ -101,6 +114,12 @@ ol li{
 }
 
 /* Nariño */
+.hnar{
+    background-color: #5cf6573e;
+}
+.contnar{
+    background-color: #b5f2b348;
+}
 .infonar img{
     width: 400px;
     height: auto;
@@ -118,7 +137,7 @@ ol li{
     height: 225px;
 }
 .textnar{
-    color: #B5F2B3;
+    color: #70ef6b;
 }
 #nar{
     width: 230px;
@@ -137,6 +156,12 @@ ol li{
 }
 
 /* San Andrés y Providencia */
+.hsan{
+    background-color: #5f4bdf38;
+}
+.contsan{
+    background-color: #5f4bdf16;
+}
 .infosan img{
     width: 350px;
     height: auto;
@@ -153,7 +178,7 @@ ol li{
     height: 225px;
 }
 .textsan{
-    color: #BEBBD9;
+    color: #847dc5;
 }
 #san{
     width: 230px;
@@ -172,6 +197,12 @@ ol li{
 }
 
 /* Vichada */
+.hvic{
+    background-color: #de48e352;
+}
+.contvic{
+    background-color: #de48e329;
+}
 .infovic img{
     width: auto;
     height: 200px;
